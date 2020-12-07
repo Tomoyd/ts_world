@@ -30,7 +30,7 @@ enum Color {
   Yellow,
 }
 
-let c: Color = Color.Red;
+let c2: Color = Color.Red;
 enum Color2 {
   Red = 2,
   Green,
