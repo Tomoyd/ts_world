@@ -1,0 +1,82 @@
+{
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+  "files.autoSave": "onFocusChange",
+  "files.associations": {},
+  "eslint.codeAction.disableRuleComment": {},
+  "eslint.codeAction.showDocumentation": {},
+  "eslint.nodePath": "",
+  "terminal.integrated.shellArgs.windows": "E:\\soft\\Git\\bin\\bash.exe",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": null,
+  "javascript.preferences.quoteStyle": "single",
+  "autoimport.doubleQuotes": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "javascript.implicitProjectConfig.checkJs": true,
+
+  "prettier.endOfLine": "lf",
+
+  "cSpell.userWords": ["Tomoyd", "antd", "devtool", "devtools", "execa", "uglifyjs", "wechat"],
+
+  "stylelint.packageManager": "yarn",
+  "stylelint.reportNeedlessDisables": true,
+  "stylelint.syntax": "less",
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "sass",
+    "scss",
+    "source.markdown.math",
+    "styled-css",
+    "sugarss",
+    "svelte",
+    "vue",
+    "vue-html",
+    "vue-postcss",
+    "xml",
+    "xsl"
+  ],
+  "peacock.affectActivityBar": false,
+  "peacock.affectStatusBar": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command", "switch:command"],
+  "diffEditor.codeLens": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.ignoreWindowsGit27Warning": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.proseWrap": "always",
+  "prettier.jsxBracketSameLine": true,
+  "editor.formatOnPaste": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.run": "onSave",
+  "tslint.autoFixOnSave": true,
+  "tslint.jsEnable": true,
+
+  "tslint.run": "onSave",
+  "prettier.printWidth": 100,
+  "tslint.packageManager": "yarn",
+  "javascript.format.semicolons": "insert",
+  "prettier.packageManager": "yarn",
+  "prettier.useEditorConfig": false,
+  "editor.quickSuggestions": null
+}
