@@ -3,12 +3,14 @@
     "jsx": "react",
     "moduleResolution": "node",
     "module": "CommonJS",
-    "target": "ESNext",
+    "target": "ESNEXT",
     "sourceMap": false,
     "declaration": false,
     "checkJs": true,
     "allowJs": true,
     "baseUrl": ".",
-    "outDir": "/"
+    "outDir": "/src",
+    "skipLibCheck": true,
+    "strictNullChecks": true
   }
 }
