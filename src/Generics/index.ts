@@ -36,3 +36,10 @@ class CGeneric<T> {
     return y;
   }
 }
+
+//
+function create<T>(c: { new (): T }): T {
+  return new c();
+}
+
+create<Object>(Object);
