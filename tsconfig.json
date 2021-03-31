@@ -11,6 +11,7 @@
     "baseUrl": ".",
     "outDir": "/src",
     "skipLibCheck": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "experimentalDecorators": true
   }
 }
